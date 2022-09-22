@@ -1,0 +1,237 @@
+@font-face {
+  font-family: Sahel;
+  src: url("../fonts/Sahel.eot");
+  src: url("../fonts/Sahel.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Sahel.woff2") format("woff2"),
+    url("../fonts/Sahel.woff") format("woff"),
+    url("../fonts/Sahel.ttf") format("truetype");
+}
+
+body {
+  font-family: "Sahel";
+  background-color: #f3f3f3;
+}
+
+.preloader {
+  background: url("../img/gifs/preloader.gif") center no-repeat;
+  background-color: #f1f2f3;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 100;
+}
+
+.btn-primary {
+  background-color: #74b9ff !important;
+  border-color: #74b9ff !important;
+}
+
+.btn-primary:hover {
+  background-color: #0984e3 !important;
+  border-color: #0984e3 !important;
+}
+
+.btn-success {
+  background-color: #1abc9c !important;
+  border-color: #1abc9c !important;
+}
+
+.btn-success:hover {
+  background-color: #1abc9c !important;
+  border-color: #1abc9c !important;
+}
+
+.btn-danger {
+  background-color: #ff7675 !important;
+  border-color: #ff7675 !important;
+}
+
+.btn-danger:hover {
+  background-color: #d63031 !important;
+  border-color: #d63031 !important;
+}
+
+.btn-outline-success {
+  /* background-color: #55efc4 !important; */
+  border-color: #1abc9c;
+}
+
+.btn-outline-success:hover {
+  background-color: #1abc9c !important;
+  border-color: #1abc9c;
+}
+
+.btn-outline-blue-orange {
+  --bs-btn-color: rgb(0, 0, 0);
+  --bs-btn-border-color: rgb(0, 41, 249);
+  --bs-btn-hover-color: rgb(255, 255, 255);
+  --bs-btn-hover-bg: rgb(0, 130, 253);
+  --bs-btn-hover-border-color: rgb(0, 130, 253);
+  --bs-btn-focus-shadow-rgb: 117, 188, 255;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: rgb(0, 41, 249);
+  --bs-btn-active-border-color: rgb(0, 130, 253);
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #eef6d5;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #d5f1f6;
+  --bs-gradient: none;
+}
+
+.shadow-hover {
+  box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
+  transition: all .3s !important;
+}
+
+.shadow-hover:hover {
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+  cursor: pointer !important;
+}
+
+.bg-sky-blue {
+  background-color: #f1f3ff;
+}
+
+.text-blue {
+  color: rgb(0, 130, 253);
+}
+
+.text-orange {
+  color: rgb(249, 97, 0);
+}
+
+.text-sky-blue {
+  color: rgb(113 157 255);
+}
+
+.accordion-button:not(.collapsed) {
+  color: #ffffff;
+  background-color: #f2601e;
+  box-shadow: inset 0 calc(var(--bs-accordion-border-width) * -1) 0 var(--bs-accordion-border-color);
+}
+
+.footer-link {
+  color: #1385fd;
+  text-decoration: none;
+  text-decoration-line: none;
+  font-style: inherit;
+}
+
+.opacity-95 {
+  opacity: 95%;
+}
+
+.opacity-90 {
+  opacity: 90%;
+}
+
+.property-p {
+  font-size: 15px;
+}
+
+.row-fixed-height [class*="col-"] {
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.row-fixed-height {
+  overflow: hidden;
+}
+
+@media (min-width: 768px) {
+  .btn-add-cart {
+    position: absolute !important;
+    bottom: 5% !important;
+    width: 89% !important;
+  }
+}
+
+.fa-text-justify {
+  direction: rtl;
+  text-align: justify;
+}
+
+.grad1 {
+  background-color: red;
+  background-image: linear-gradient(to bottom right, #e44c56, #eb42d6);
+}
+
+.grad2 {
+  background-color: red;
+  background-image: linear-gradient(to bottom right, #fcf162, #ff590a);
+}
+
+.grad3 {
+  background-color: red;
+  background-image: linear-gradient(to bottom right, #67de4d, #eaec4d);
+}
+
+.grad4 {
+  background-color: red;
+  background-image: linear-gradient(to bottom right, #4c9cde, #47efc0);
+}
+
+.vcenter {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  right: 5%;
+}
+
+@media (min-width: 768px) {
+  .vcenter {
+    left: 35%;
+    right: 35%;
+  }
+}
+
+.bg-yello {
+  background-color: #fecd45;
+}
+
+.bg-blue {
+  background-color: #f1f3ff;
+}
+
+.bg-w {
+  background-color: #ffffff;
+}
+
+.bg-red {
+  background-color: #fc5769;
+}
+
+.bg-p {
+  background-color: #f1f2f6;
+}
+
+.bg-grad1 {
+  background-image: radial-gradient(#ff8a00, #e52e71);
+
+}
+
+.card {
+  border: none !important;
+  background-color: #f5f6fa;
+}
+
+.category-hover {
+  transition: all .3s;
+}
+
+.category-hover:hover {
+  transform: scale(1.1) !important;
+}
+
+.back-to-top {
+  display: none !important;
+  z-index: 1000 !important;
+}
+
+.back-to-top-sm {
+  display: block !important;
+  z-index: 1000 !important;
+}

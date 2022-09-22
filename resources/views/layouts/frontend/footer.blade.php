@@ -8,7 +8,7 @@
 
       </div>
       <div class="d-flex flex-column flex-md-row justify-content-between py-2 my-4 border-top">
-        <a class="navbar-brand" href="index.html"><img src="img/logo.svg" class="img-fluid" alt="" width="80px"></a>
+        <a class="navbar-brand" href="index.html"><img src="/img/logo.svg" class="img-fluid" alt="" width="80px"></a>
         <p>Designed by <a class="footer-link" href="http://github.com/iihossein">@iihossein</a></p>
       </div>
     </footer>
@@ -18,25 +18,26 @@
     crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.1.min.js"
     integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    {{-- <script>
+      // Preloader
+      $(window).on("load", function () {
+        $(".preloader").fadeOut(1000);
+      });
+    
+    
+      var mybutton = document.getElementsByClassName("back-to-top");
+    
+      window.onscroll = function () { scrollFunction() };
+      function scrollFunction() {
+        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+          $(mybutton).removeClass("back-to-top");
+          $(mybutton).addClass("back-to-top-sm");
+        } else {
+          $(mybutton).removeClass("back-to-top-sm");
+          $(mybutton).addClass("back-to-top");
+        }
+      }
+    </script> --}}
 </body>
-<script>
-  // Preloader
-  $(window).on("load", function () {
-    $(".preloader").fadeOut(1000);
-  });
 
-
-  var mybutton = document.getElementsByClassName("back-to-top");
-
-  window.onscroll = function () { scrollFunction() };
-  function scrollFunction() {
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-      $(mybutton).removeClass("back-to-top");
-      $(mybutton).addClass("back-to-top-sm");
-    } else {
-      $(mybutton).removeClass("back-to-top-sm");
-      $(mybutton).addClass("back-to-top");
-    }
-  }
-</script>
 </html>

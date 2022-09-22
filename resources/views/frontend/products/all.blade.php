@@ -26,7 +26,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <img src="img/Maintenance-cuate2.png" class="img-fluid">
+          <img src="/img/Maintenance-cuate2.png" class="img-fluid">
         </div>
       </div>
     </header>
@@ -47,13 +47,13 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/ads/4.jpg" class="d-block w-100" alt="...">
+            <img src="/img/ads/4.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="img/ads/3.jpg" class="d-block w-100" alt="...">
+            <img src="/img/ads/3.jpg" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="img/ads/2.gif" class="d-block w-100" alt="...">
+            <img src="/img/ads/2.gif" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
@@ -77,7 +77,7 @@
         <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
           <div class="col">
             <div class="card h-100 border shadow-sm rounded-3 bg-w shadow-hover">
-              <img src="img/card-images/1.webp" class="card-img-top p-2  rounded-4" alt="...">
+              <img src="/img/card-images/1.webp" class="card-img-top p-2  rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار فرانسه مدل V2</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -92,7 +92,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow-sm rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/2.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/2.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار فرانسه مدل V5</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -106,7 +106,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow-sm rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/3.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/3.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار مدل X2</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-exclamation-circle text-danger"></i> تنها ۴
@@ -120,7 +120,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow-sm rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/4.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/4.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار مدل Z1</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-x-circle"></i> اتمام موجودی</p>
@@ -139,16 +139,16 @@
     <main class="container">
       <div class="row g-3">
         <div class="col-6 col-md-3 category-hover">
-          <a href="#"><img src="img/category/1.webp" alt="" class="img-fluid rounded-4 shadow p-2"></a>
+          <a href="#"><img src="/img/category/1.webp" alt="" class="img-fluid rounded-4 shadow p-2"></a>
         </div>
         <div class="col-6 col-md-3 category-hover">
-          <a href="#"><img src="img/category/2.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
+          <a href="#"><img src="/img/category/2.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
         </div>
         <div class="col-6 col-md-3 category-hover">
-          <a href="#"><img src="img/category/3.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
+          <a href="#"><img src="/img/category/3.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
         </div>
         <div class="col-6 col-md-3 category-hover">
-          <a href="#"><img src="img/category/4.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
+          <a href="#"><img src="/img/category/4.webp" alt="" class="img-fluid rounded-4 shadow  p-2"></a>
         </div>
       </div>
     </main>
@@ -161,7 +161,7 @@
         <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
           <div class="col mb-3">
             <div class="card h-100 border rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/1.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/1.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار فرانسه مدل V2</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -176,7 +176,7 @@
           </div>
           <div class="col mb-3">
             <div class="card h-100 border rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/2.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/2.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار فرانسه مدل V5</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -190,7 +190,7 @@
           </div>
           <div class="col mb-3">
             <div class="card h-100 border shadow-sm rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/3.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/3.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار مدل X2</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-exclamation-circle text-danger"></i> تنها ۴
@@ -204,7 +204,7 @@
           </div>
           <div class="col mb-3">
             <div class="card h-100 border rounded-3 bg-opacity-10 bg-w shadow-hover">
-              <img src="img/card-images/4.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/4.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">آچار مدل Z1</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-x-circle"></i> اتمام موجودی</p>
@@ -216,7 +216,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow rounded-3">
-              <img src="img/card-images/5.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/5.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">دم باریک</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -230,7 +230,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow rounded-3">
-              <img src="img/card-images/6.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/6.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">سیم چین مدل y80</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
@@ -244,7 +244,7 @@
           </div>
           <div class="col">
             <div class="card h-100 border shadow rounded-3">
-              <img src="img/card-images/7.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/7.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">سیم چین</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-x-circle"></i> اتمام موجودی</p>
@@ -256,7 +256,7 @@
           </div>
           <div class="col mb-4">
             <div class="card h-100 border shadow rounded-3">
-              <img src="img/card-images/10.webp" class="card-img-top p-2 rounded-4" alt="...">
+              <img src="/img/card-images/10.webp" class="card-img-top p-2 rounded-4" alt="...">
               <div class="card-body">
                 <h4 class="card-title mb-4">دستگاه جوش</h4>
                 <p class="card-text ps-3 text-muted fs-6"><i class="bi bi-box-arrow-in-down text-sky-blue"></i> موجود در
