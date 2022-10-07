@@ -17,6 +17,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('products/all',function(){
-   return view('frontend.products.all');
+Route::get('products/all', function () {
+    return view('frontend.products.all');
+});
+Route::get('admin', function () {
+    return view('admin.index');
+});
+Route::get('admin', function () {
+    return view('admin.index');
+});
+Route::get('admin/users-list', function () {
+    return view('admin.users.users-list');
 });
